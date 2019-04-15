@@ -1,4 +1,4 @@
-from operators import TimeFormater, TimeZoneChecker
+from time_operators.operators import TimeFormater, TimeZoneChecker
 from datetime import datetime
 from unittest import TestCase
 
