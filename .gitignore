@@ -5,3 +5,5 @@ dist
 .egg*
 build
 time_operators.egg-info
+
+\.idea/
