@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="time_operators",
-    version="0.0.1",
+    version="0.1.0",
     author="William Cæsar",
     author_email="williamcaesar@pm.me",
     description="A library to perform math operations with time and timezones",
