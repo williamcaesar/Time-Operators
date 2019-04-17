@@ -6,7 +6,7 @@ Time Operators
 
 A library to perform math operations with time and timezones.
 
-# Instalation:
+## Installation:
 
 ```shell
 pip install time-operators
